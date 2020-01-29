@@ -15,5 +15,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author" : "Adarsh Nanwani",
-	"description": "A project that does something awesome"
+	"description": "A project that does something awesome",
+	"keywords": [ "fcc", "npm", "challenges" ]
 }
