@@ -14,5 +14,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author" : "Adarsh Nanwani"
+	"author" : "Adarsh Nanwani",
+	"description": "A project that does something awesome"
 }
