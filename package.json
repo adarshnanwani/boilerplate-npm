@@ -16,5 +16,6 @@
 	},
 	"author" : "Adarsh Nanwani",
 	"description": "A project that does something awesome",
-	"keywords": [ "freecodecamp", "npm", "challenges" ]
+	"keywords": [ "freecodecamp", "npm", "challenges" ],
+	"license": "MIT"
 }
